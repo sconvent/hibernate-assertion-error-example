@@ -30,7 +30,7 @@ repositories {
 }
 
 dependencies {
-    implementation("org.hibernate.orm:hibernate-core:6.2.4.Final")
+    implementation("org.hibernate.orm:hibernate-core:6.2.5.Final")
     implementation("org.hibernate.orm:hibernate-testing:6.2.5.Final")
     testRuntimeOnly("com.h2database:h2:2.1.214")
 
